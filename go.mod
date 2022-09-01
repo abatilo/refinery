@@ -24,7 +24,7 @@ require (
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/viper v1.12.0
 	github.com/stretchr/testify v1.8.0
-	github.com/tidwall/gjson v1.14.1
+	github.com/tidwall/gjson v1.14.3
 	github.com/vmihailenco/msgpack/v4 v4.3.11
 	go.opentelemetry.io/proto/otlp v0.11.0
 	golang.org/x/net v0.0.0-20220520000938-2e3eb7b945c2 // indirect
